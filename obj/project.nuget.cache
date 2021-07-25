@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tXBmAvldzPaftPmw4m0qkb1+ws4RPGRWQc4+1uYtBUPDRTyPO3kLXH9O+m7mwALvYrOI5jKVeaFxvS6Kz60JlA==",
+  "success": true,
+  "projectFilePath": "D:\\NLXADRIA\\NLXADRIA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ruzma\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.2\\microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
+    "C:\\Users\\Ruzma\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
